@@ -1,0 +1,7 @@
+.banner {
+  background-image: url("../bannerImage.jpg");
+}
+
+.moviename {
+  opacity: 0.8;
+}
